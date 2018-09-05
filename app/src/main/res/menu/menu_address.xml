@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.cqnu.wuq.Activity.MainActivity">
+    <item
+        android:id="@+id/menu_inport"
+        android:orderInCategory="100"
+        android:title="导入" />
+    <item
+        android:id="@+id/menu_output"
+        android:orderInCategory="100"
+        android:title="导出" />
+    <item
+        android:id="@+id/menu_clear"
+        android:orderInCategory="100"
+        android:title="清空数据库" />
+    <item
+        android:id="@+id/menu_phone"
+        android:orderInCategory="100"
+        android:title="拨打电话" />
+    <item
+        android:id="@+id/menu_message"
+        android:orderInCategory="100"
+        android:title="发送短信" />
+</menu>

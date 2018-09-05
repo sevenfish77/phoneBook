@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="navigationBarColor">#ff0</color>
+    <color name="statusBarColor">#F34</color>
+
+    //自定义颜色
+    <color name="nan">#325175</color>  //深南
+    <color name="LA">#A2DEE8</color>   //较透蓝
+    <color name="TN">#ABCDCF</color>   //透蓝
+    <color name="lv">#376E3D</color>    //绿
+    <color name="LV1">#80A661</color>
+    <color name="TL">#A3BD92</color>     //透绿
+    <color name="zi">#6D5C62</color>   //深紫
+    <color name="XZ">#72696E</color>   //浅紫
+    <color name="mv">#3D6236</color>   //墨绿
+</resources>
